@@ -1,0 +1,21 @@
+.title {
+  margin-top: 25%;
+}
+
+.row-head {
+  margin-top: 5%;
+}
+
+.hex {
+  padding-bottom: 10px;
+  padding-top: 5px;
+}
+
+.info p {
+  margin-top: 35px
+}
+
+.row {
+  padding-bottom: 25px;
+  border-bottom: 1px #333 solid;
+}
