@@ -33,6 +33,12 @@
   src: url('RoemischRueckLiegHar.ttf');
 }
 
+@font-face {
+  font-family: 'Replica Bold';
+  src: url('ReplicaBold.otf');
+}
+
+
 .title {
   margin-top: 25%;
 }
@@ -81,4 +87,8 @@
 
 .roe-obl-lite {
   font-family: 'Roemisch Reverse Oblique Light';
+}
+
+.replica-bold {
+  font-family: 'Replica-Bold';
 }
